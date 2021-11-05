@@ -24,6 +24,7 @@ Currently it has 4 items,
 - (unfinished) Hyper Mask
 # Links
 [tML Discord](https://discord.com/invite/RMZCqq6)
+[cool thing someone else made (NOT BY ME I SUCK AT CODING COMPARED TO THIS GOD OF A CODER!)](https://forums.terraria.org/index.php?threads/terraria-overhaul-gameplay-enhancements-and-much-more.60369/)
 
 i dont have a discord or any sort of contacts
 
