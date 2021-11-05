@@ -5,9 +5,9 @@
 ##### Hello, This is the source for a mod I am making for tModLoader.
 
 # Made with and for
-![](https://github.com/ACKREIK/tstands/blob/main/tml.png?raw=true) 
+![](https://github.com/ACKREIK/tstands/blob/master/tml.png?raw=true) 
 ##### I present to you,
-![](https://github.com/ACKREIK/tstands/blob/main/iconlarge.png?raw=true) 
+![](https://github.com/ACKREIK/tstands/blob/master/iconlarge.png?raw=true) 
 
 nothing is final lol
 not the name, the thumnail, and all of this.
