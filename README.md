@@ -1,5 +1,7 @@
 # **tstands**
-![](https://img.shields.io/github/stars/ACKREIK/tstands) ![](https://img.shields.io/github/forks/ACKREIK/tstands) ![](https://img.shields.io/github/tag/ACKREIK/tstands) ![](https://img.shields.io/github/release/ACKREIK/tstands) ![](https://img.shields.io/github/issues/ACKREIK/tstands)
+![](https://img.shields.io/github/stars/ACKREIK/tstands) ![](https://img.shields.io/github/forks/ACKREIK/tstands)  ![](https://img.shields.io/github/issues/ACKREIK/tstands)
+
+![](https://img.shields.io/github/tag/ACKREIK/tstands) ![](https://img.shields.io/github/release/ACKREIK/tstands)
 ##### Hello, This is the source for a mod I am making for tModLoader.
 
 # Made with and for
