@@ -1,0 +1,3 @@
+displayName = Laughing Cats Terrarian Stands/Extras Pack
+author = Laughing Cat
+version = 0.1
