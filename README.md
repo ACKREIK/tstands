@@ -11,7 +11,7 @@
 
 nothing is final lol
 not the name, the thumnail, and all of this.
-#What is this?
+# What is this?
 Well its pretty simple, it is a mod for the [tModLoader](https://store.steampowered.com/app/1281930/tModLoader/) platform.
 
 It will contain NPCs, Items, Armor, Biomes, and more.
